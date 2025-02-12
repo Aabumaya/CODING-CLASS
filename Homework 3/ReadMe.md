@@ -5,6 +5,6 @@ I learned about how use boolean values for checking conditions. I learned about 
 
 ### Live link
 
-[Home Page](https://aabumaya.github.io/CODING-CLASS/Week-3/index.html)
+[Home Page](https://aabumaya.github.io/CODING-CLASS/Homework%203/index.html)
 
 [Second Link](https://github.com/Aabumaya/CODING-CLASS/tree/main/Homework%203)
