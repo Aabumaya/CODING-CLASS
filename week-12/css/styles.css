@@ -17,3 +17,16 @@ nav a {
 nav a:visited {
     color: brown;
 }
+
+.digimon-card img {
+    width: 100px;
+    height: 100px;
+}
+
+.digimon-card button {
+font-size: 20px;
+border-radius: 50%;
+width: 25px;
+height: 25px;
+padding: 0;
+}
